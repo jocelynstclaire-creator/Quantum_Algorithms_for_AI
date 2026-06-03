@@ -4,7 +4,8 @@ A highly customized, symmetrically balanced web interface designed for catalogin
 
 🛠️ Tech Stack & ArchitectureFramework: React.js 
 
-(Component View Engine)Build System: Vite (Next-Gen HMR Build Tooling)
+(Component View Engine)
+Build System: Vite (Next-Gen HMR Build Tooling)
 Styling Paradigm: Vanilla CSS (Structured Layering Pattern)
 Core Systems: Dynamic 3D Transform Component Cards, Regular Expression Search Pipeline
 
